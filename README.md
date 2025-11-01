@@ -17,10 +17,21 @@ Perhatikan syntax berikut ini :
 
 Pada latihan pertama ini kita perlu menentukan bilangan yang lebih besar dibanding dengan bilangan 0,5. Untuk memenuhi kriteria tersebut kita harus memasukan variabel < (less than) 0.5 agar programan mengetahui intruksi yang kita inginkan. 
 1. Penggunaan kode random.random untuk menghasilkan hasil acak pada outputnya.
-2. pada line 2, kita harus memasukan nilai pada saat runtime code nya
+2. Pada line 2, kita harus memasukan nilai pada saat runtime code nya
 3. for i in range (n), pada kode syntax ini kita akan melakukan pengulangan sesuai dengan jumlah yang di input pada line 2 (n)
-4. sementara while True digunakan untuk perulangan non sequence dan berkolaborasi dengan syntax for range yang terdapat pada line 2, dimana for range sendiri adalah perulanga sequence (terkira). perulangan for ini hanya menentukan bahwa program harus menghasilkan output perulangan sesuai dengan (n).
+4. Sementara while True digunakan untuk perulangan non sequence dan berkolaborasi dengan syntax for range yang terdapat pada line 2, dimana for range sendiri adalah perulanga sequence (terkira). perulangan for ini hanya menentukan bahwa program harus menghasilkan output perulangan sesuai dengan (n).
 5. Dapat dilihat pada line 6 bahwa kita harus menjelaskan perhitungan seperti apa yang kita butuhkan, karena kita sedang mencari bilangan yang kurang dari 0.5 maka gunakan (<) dan kode akan menghasilkan hasil yang kurang dari 0.5
 6. Break merupakan bagian penutup dari kode ini
+   
 Ini adalah outputnya:
 
+![image](https://github.com/scellaa/labpy03/blob/b1d5ae605358c8608cea700af0af35ac1b59a21d/python%20picture%20(input%20n%20output)/OUTPUT%20LAT%201%20(KURANG%20DARI%200.5)%20PERTEMUAN%207.jpg)
+
+----------------------------------------------------------------------------
+### LATIHAN 2 (MENGHITUNG LABA SELAMA 8 BULAN) 
+Perhatikan syntax dibawah ini: 
+
+![image]()
+
+Sebuah pengusaha mempunyai modal awal sebesar RP100,000,000,00 dan pada bulan ke-3 hingga ke-4 mendapatkan laba sebesar 1%, kemudian pada bulan ke-5 hingga bulan ke-7 mendapatkan kenaikan laba yang signifikan sebanyak 5%, namun pada bulan ke-8 mengalami penuruan laba sebanyak 2% jadi hanya mendapatkan laba sebanyak 3%. Berikut penjelasan kodenya:
+1. 
