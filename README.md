@@ -42,7 +42,7 @@ Berikut merupakan hasil outputnya:
 
 ![image](https://github.com/scellaa/labpy03/blob/c2d69d183b4f29c0bb321befc5d09e0caf40c646/python%20picture%20(input%20n%20output)/LABA%202.jpg)
 
-
+-----------------------------------------------------------------------------
 ### LATIHAN 3 (MEMBUAT ATM SEDERHANA)
 Perhatikan syntax dibawah ini:
 
