@@ -31,7 +31,9 @@ Ini adalah outputnya:
 ### LATIHAN 2 (MENGHITUNG LABA SELAMA 8 BULAN) 
 Perhatikan syntax dibawah ini: 
 
-![image]()
+![image](https://github.com/scellaa/labpy03/blob/0b3ed2fb4a1f156491c49385c26ce24805353d60/python%20picture%20(input%20n%20output)/LABA%201%20.jpg)
 
 Sebuah pengusaha mempunyai modal awal sebesar RP100,000,000,00 dan pada bulan ke-3 hingga ke-4 mendapatkan laba sebesar 1%, kemudian pada bulan ke-5 hingga bulan ke-7 mendapatkan kenaikan laba yang signifikan sebanyak 5%, namun pada bulan ke-8 mengalami penuruan laba sebanyak 2% jadi hanya mendapatkan laba sebanyak 3%. Berikut penjelasan kodenya:
-1. 
+1. Pada line 8, kita menggunakan range 8 karena yang ingin dicari adalah laba selama 8 bulan
+2. Lalu setelah itu kita menentukan keuntungan laba selama 8 bulan itu dengan menggunakan rumus yang tertera pada line 9
+3. Setelah itu cetak laba keuntungan perbulan dengan syntax seperti di line 11, maksud dari {bulan+1} adalah setiap variabel bulan bertambah 1 sebanyak 8x 
