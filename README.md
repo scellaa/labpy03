@@ -36,4 +36,22 @@ Perhatikan syntax dibawah ini:
 Sebuah pengusaha mempunyai modal awal sebesar RP100,000,000,00 dan pada bulan ke-3 hingga ke-4 mendapatkan laba sebesar 1%, kemudian pada bulan ke-5 hingga bulan ke-7 mendapatkan kenaikan laba yang signifikan sebanyak 5%, namun pada bulan ke-8 mengalami penuruan laba sebanyak 2% jadi hanya mendapatkan laba sebanyak 3%. Berikut penjelasan kodenya:
 1. Pada line 8, kita menggunakan range 8 karena yang ingin dicari adalah laba selama 8 bulan
 2. Lalu setelah itu kita menentukan keuntungan laba selama 8 bulan itu dengan menggunakan rumus yang tertera pada line 9
-3. Setelah itu cetak laba keuntungan perbulan dengan syntax seperti di line 11, maksud dari {bulan+1} adalah setiap variabel bulan bertambah 1 sebanyak 8x 
+3. Setelah itu cetak laba keuntungan perbulan dengan syntax seperti di line 11, maksud dari {bulan+1} adalah setiap variabel bulan bertambah 1 sebanyak 8x
+   
+Berikut merupakan hasil outputnya:
+
+![image](https://github.com/scellaa/labpy03/blob/c2d69d183b4f29c0bb321befc5d09e0caf40c646/python%20picture%20(input%20n%20output)/LABA%202.jpg)
+
+
+### LATIHAN 3 (MEMBUAT ATM SEDERHANA)
+Perhatikan syntax dibawah ini:
+
+![image](https://github.com/scellaa/labpy03/blob/b1d5ae605358c8608cea700af0af35ac1b59a21d/python%20picture%20(input%20n%20output)/INPUT%20LAT%203%20(ATM)%20PERTEMUAN%207.jpg)
+
+Seseorang ingin menarik uang dari sebuah atm sederhana, dan saldo yang ia miliki adalah Rp1000,0000,00. Begini penjelasan kodenya:
+1. Kita menggunakan rumus while True karena perulangan ini non sequence, perulangan while true akan berhenti jika sudah mendapatkan hasil yang diinginkan.
+2. Pada syntax ini kita menggunakan rumus if dan elif untuk mengetahui keputusan yang di input seorang user
+3. Untuk menghitung sisa saldo yang tertera pada rekening, kita menggunakan rumus operan (-) contohnya antaralain adalah {s_awal - jml}
+perhatikan output dibawah ini:
+
+![image](https://github.com/scellaa/labpy03/blob/b1d5ae605358c8608cea700af0af35ac1b59a21d/python%20picture%20(input%20n%20output)/OUTPUT%20LAT%203%20(ATM)%20PERTEMUAN%207.jpg)
