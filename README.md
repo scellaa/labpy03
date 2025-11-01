@@ -11,3 +11,6 @@ Pertemuan 7
 ## LAPORAN PRATIKUM 4 
 ---------------------------------------------------------------------------
 ### LATIHAN 1 (BILANGAN KURANG DARI 0.5) 
+Perhatikan syntax berikut ini : 
+
+![image](url) 
