@@ -1,5 +1,5 @@
 # labpy03
----------------------------------------------------------------------------
+#---------------------------------------------------------------------------
 NAMA: Mayscela Herliyawati 
 
 NIM: 312510371
@@ -9,7 +9,7 @@ KELAS: TI.25.C5
 Pertemuan 7
 
 ## LAPORAN PRATIKUM 4 
----------------------------------------------------------------------------
+#---------------------------------------------------------------------------
 ### LATIHAN 1 (BILANGAN KURANG DARI 0.5) 
 Perhatikan syntax berikut ini : 
 
@@ -27,7 +27,7 @@ Ini adalah outputnya:
 
 ![image](https://github.com/scellaa/labpy03/blob/b1d5ae605358c8608cea700af0af35ac1b59a21d/python%20picture%20(input%20n%20output)/OUTPUT%20LAT%201%20(KURANG%20DARI%200.5)%20PERTEMUAN%207.jpg)
 
-----------------------------------------------------------------------------
+#----------------------------------------------------------------------------
 ### LATIHAN 2 (MENGHITUNG LABA SELAMA 8 BULAN) 
 Perhatikan syntax dibawah ini: 
 
@@ -42,7 +42,7 @@ Berikut merupakan hasil outputnya:
 
 ![image](https://github.com/scellaa/labpy03/blob/c2d69d183b4f29c0bb321befc5d09e0caf40c646/python%20picture%20(input%20n%20output)/LABA%202.jpg)
 
------------------------------------------------------------------------------
+#-----------------------------------------------------------------------------
 ### LATIHAN 3 (MEMBUAT ATM SEDERHANA)
 Perhatikan syntax dibawah ini:
 
