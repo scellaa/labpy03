@@ -52,6 +52,7 @@ Seseorang ingin menarik uang dari sebuah atm sederhana, dan saldo yang ia miliki
 1. Kita menggunakan rumus while True karena perulangan ini non sequence, perulangan while true akan berhenti jika sudah mendapatkan hasil yang diinginkan.
 2. Pada syntax ini kita menggunakan rumus if dan elif untuk mengetahui keputusan yang di input seorang user
 3. Untuk menghitung sisa saldo yang tertera pada rekening, kita menggunakan rumus operan (-) contohnya antaralain adalah {s_awal - jml}
+   
 perhatikan output dibawah ini:
 
 ![image](https://github.com/scellaa/labpy03/blob/b1d5ae605358c8608cea700af0af35ac1b59a21d/python%20picture%20(input%20n%20output)/OUTPUT%20LAT%203%20(ATM)%20PERTEMUAN%207.jpg)
